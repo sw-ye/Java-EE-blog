@@ -1,0 +1,23 @@
+[![Spring Boot](https://img.shields.io/badge/Spring_Boot-2.x-green?logo=springboot)](https://spring.io/projects/spring-boot)
+[![Java](https://img.shields.io/badge/Java-8-%23ED8B00?logo=openjdk)](https://java.com)
+[![Status](https://img.shields.io/badge/Status-学习项目-orange)](https://github.com/sw-ye/college-blog)
+
+<h1 align="center">🎓 大学博客系统（Java EE课程设计）</h1>
+<p align="center">基于Spring Boot的博客平台 | 计算机专业核心课程实践项目</p >
+
+
+---
+
+## 📖 项目背景
+**大学计算机专业课程设计**
+教材参考：《Spring Boot企业级开发教程》黑马程序员
+
+## 🧩 功能模块
+```mermaid
+pie
+    title 功能组成比例
+    “文章管理” ： 35
+    “用户认证” ： 25
+    “评论系统” ： 20
+    “数据统计” ： 15
+    “其他” ： 5
